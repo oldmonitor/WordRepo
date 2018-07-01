@@ -1,0 +1,1 @@
+C:\Git\WordRepo\src\WordRepo\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache

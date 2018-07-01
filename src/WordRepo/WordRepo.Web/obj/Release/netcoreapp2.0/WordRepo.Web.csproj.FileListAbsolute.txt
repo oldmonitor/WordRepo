@@ -1,0 +1,11 @@
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\bin\Release\netcoreapp2.0\WordRepo.Web.deps.json
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\bin\Release\netcoreapp2.0\WordRepo.Web.runtimeconfig.json
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\bin\Release\netcoreapp2.0\WordRepo.Web.runtimeconfig.dev.json
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\bin\Release\netcoreapp2.0\WordRepo.Web.dll
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\bin\Release\netcoreapp2.0\WordRepo.Web.pdb
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.csprojAssemblyReference.cache
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.csproj.CoreCompileInputs.cache
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.AssemblyInfoInputs.cache
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.AssemblyInfo.cs
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.dll
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web\obj\Release\netcoreapp2.0\WordRepo.Web.pdb

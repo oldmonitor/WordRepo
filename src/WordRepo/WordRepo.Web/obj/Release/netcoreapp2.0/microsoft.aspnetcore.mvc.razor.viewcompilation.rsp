@@ -1,0 +1,12 @@
+C:\Git\WordRepo\src\WordRepo\WordRepo.Web
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WordRepo.Web
+--content-root=C:\Git\WordRepo\src\WordRepo\WordRepo.Web
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Home\About.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Home\Contact.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Home\Index.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Shared\Error.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Shared\_Layout.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\_ViewImports.cshtml
+--file=C:\Git\WordRepo\src\WordRepo\WordRepo.Web\Views\_ViewStart.cshtml

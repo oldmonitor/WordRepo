@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordRepo.Web", "WordRepo.Web\WordRepo.Web.csproj", "{32A95A44-A2FA-4D69-B3AE-EE895DEFA452}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E54F7CEC-F3B5-40FA-98C2-D5A61C0FFC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A95A44-A2FA-4D69-B3AE-EE895DEFA452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A95A44-A2FA-4D69-B3AE-EE895DEFA452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A95A44-A2FA-4D69-B3AE-EE895DEFA452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A95A44-A2FA-4D69-B3AE-EE895DEFA452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54F7CEC-F3B5-40FA-98C2-D5A61C0FFC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54F7CEC-F3B5-40FA-98C2-D5A61C0FFC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54F7CEC-F3B5-40FA-98C2-D5A61C0FFC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54F7CEC-F3B5-40FA-98C2-D5A61C0FFC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903374BA-58AD-46F9-8F6A-DE52F514368B}
+	EndGlobalSection
+EndGlobal

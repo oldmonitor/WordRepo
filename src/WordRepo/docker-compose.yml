@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  wordrepo.web:
+    image: ${DOCKER_REGISTRY}wordrepoweb
+    build:
+      context: .
+      dockerfile: WordRepo.Web\Dockerfile
